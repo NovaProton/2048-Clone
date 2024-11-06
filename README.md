@@ -19,6 +19,9 @@ This project is a clone of the popular 2048 game, where players combine numbered
 - **CSS3**: To style the board, tiles, and interface elements for a polished visual presentation.
 - **JavaScript (with jQuery)**: To handle game mechanics, including the movement and merging of tiles, score updates, and user interactions.
 
+## Files
+- **Best on Desktop**: For the optimal gaming experience, it is recommended to play this game on a desktop device.
+
 ## Screenshot
 ![2048 Clone Screenshot](2048CloneDemo.png)
 
